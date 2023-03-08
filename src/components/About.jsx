@@ -57,7 +57,7 @@ const About = () => {
                 className="mt-4 ml-3 text-white text-[17px] italic max-w-6xl leading-[30px]"
             >
                 <div className="flex space-x-4">
-                    <p className="font-bold">LOVE LOVE LOVE Asian Food&nbsp;&nbsp;🥢</p>
+                    <p className="font-bold">Proud daddy of a 3 year old princess👑&nbsp;&nbsp;</p>
 
                     <p className="font-bold">Serve as a mentor through tech for Tulsa's youth&nbsp;&nbsp;🙏🏾</p>
 
