@@ -14,16 +14,10 @@ import {
     mongodb,
     git,
     figma,
-    docker,
-    meta,
-    starbucks,
-    tesla,
-    shopify,
     carrent,
     jobit,
     // realestate,
     // travelkenz,
-    tripguide,
     threejs,
 } from "../assets";
 
@@ -110,10 +104,6 @@ const technologies = [
         name: "figma",
         icon: figma,
     },
-    {
-        name: "docker",
-        icon: docker,
-    },
 ];
 
 const experiences = [
@@ -191,49 +181,27 @@ const projects = [
         source_code_link: "https://ts-ecom.netlify.app/",
     },
 
-    // {
-    //     name: "DALL-E",
-    //     description:
-    //         "A MERN Stack AI image Generator",
-    //     tags: [
-    //         {
-    //             name: "NodeJS",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "ExpressJS/MongoDB",
-    //             color: "green-text-gradient",
-    //         },
-    //         {
-    //             name: "OpenAI API, Cloudinary",
-    //             color: "pink-text-gradient",
-    //         },
-    //     ],
-    //     image: web,
-    //     source_code_link: "http://127.0.0.1:5174/",
-    // },
-
-    // {
-    //     name: "SurprizeMe",
-    //     description:
-    //         "If you're like me and need help deciding what to eat, click the link, enter an ingredient, and see what pops up!",
-    //     tags: [
-    //         {
-    //             name: "JavaScript",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "MealDB API",
-    //             color: "green-text-gradient",
-    //         },
-    //         // {
-    //         //     name: "css",
-    //         //     color: "pink-text-gradient",
-    //         // },
-    //     ],
-    //     image: web,
-    //     source_code_link: "https://surprizeme.netlify.app/",
-    // },
+    {
+        name: "TS Socket-Chat-App",
+        description:
+            "Socket.io was used on the server and client to build this chat app. Users can create a room, join a room, chat with other users. Built with React, TypeScript, Node, Express, Socket.io.",
+        tags: [
+            {
+                name: "TypeScript",
+                color: "blue-text-gradient",
+            },
+            {
+                name: "NodeJS",
+                color: "pink-text-gradient",
+            },
+            {
+                name: "RealtimeCommunication",
+                color: "green-text-gradient",
+            },
+        ],
+        image: web,
+        source_code_link: "https://ts-ecom.netlify.app/",
+    },
 
     {
         name: "Travel with Kenz",
@@ -241,21 +209,22 @@ const projects = [
             "A front-end web-site that was built in ReactJS and  regularCSS. The site is fully responsive.",
         tags: [
             {
-                name: "ReactJS",
+                name: "NodeJS",
                 color: "blue-text-gradient",
             },
             {
-                name: "CSS",
+                name: "TypeScript",
                 color: "green-text-gradient",
             },
             {
-                name: "TailwindCSS",
+                name: "NextJS",
                 color: "pink-text-gradient",
             },
         ],
         image: web,
         source_code_link: "https://travel-kenz.netlify.app/",
     },
+
     {
         name: "real21estate",
         description:
@@ -302,6 +271,50 @@ const projects = [
         image: web,
         source_code_link: "https://p-lax-space.netlify.app/",
     },
+
+    // {
+    //     name: "DALL-E",
+    //     description:
+    //         "A MERN Stack AI image Generator",
+    //     tags: [
+    //         {
+    //             name: "NodeJS",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "ExpressJS/MongoDB",
+    //             color: "green-text-gradient",
+    //         },
+    //         {
+    //             name: "OpenAI API, Cloudinary",
+    //             color: "pink-text-gradient",
+    //         },
+    //     ],
+    //     image: web,
+    //     source_code_link: "http://127.0.0.1:5174/",
+    // },
+
+    // {
+    //     name: "SurprizeMe",
+    //     description:
+    //         "If you're like me and need help deciding what to eat, click the link, enter an ingredient, and see what pops up!",
+    //     tags: [
+    //         {
+    //             name: "JavaScript",
+    //             color: "blue-text-gradient",
+    //         },
+    //         {
+    //             name: "MealDB API",
+    //             color: "green-text-gradient",
+    //         },
+    //         // {
+    //         //     name: "css",
+    //         //     color: "pink-text-gradient",
+    //         // },
+    //     ],
+    //     image: web,
+    //     source_code_link: "https://surprizeme.netlify.app/",
+    // },
 
 
 
