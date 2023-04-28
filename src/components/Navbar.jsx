@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-
+import peace from "../assets/peace.jpg";
 import { styles } from "../styles";
 import { navLinks } from "../constants";
 import { logo, menu, close, } from "../assets";
@@ -40,7 +40,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src="src/assets/peace.jpg" alt='logo' className='w-6 h-6 object-contain' />
+          <img src={peace} alt='logo' className='w-6 h-6 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Rocko Gilbert &nbsp;
             <span className='sm:block hidden'> | Portfolio</span>
