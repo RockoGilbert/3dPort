@@ -63,17 +63,15 @@ const About = () => {
 
                 </div>
                 <br />
+            
                 <br />
-                FullStack Developer who loves building in React and its ecosystem! My focus involves using React to build dynamic user interfaces. Currently I am building an E-commerce website where I am implementing product filtering and search funcionality using Redux.
-                <br />
-                <br />
-                I possess 2 years of hands-on experience in front-end development, specializing in React, JavaScript, CSS, and TailwindCSS. Additionally, I have expertise in backend development, utilizing Node.js and Express, with proficiency in working with databases like MongoDB, MySql, and Firebase.
+                I possess 2 years of experience developing Full Stack applications. I prefer to build using React, TypeScript, and Tailwind for the Frontend and Express, NodeJS, Firebase, and MongoDB for the middleware/backend. I particulary enjoy creating a pleasant user exerience, through animation, 3d graphics, and scrolling effects. 
                 <br />
                 <br />
                 My past career consists of 9 years working on KC-135 aircraft for the United States Air Force, 8+ years working as a Purchaser/QA/Logistics Manager, and 3 years teaching marketing and sales to build an online distribution of products.
                 <br />
                 <br />
-                With changes happening so quickly, the ability to adapt, learn new skills, and be accountable to apply them to new situations is a theme I'm familiar with and the foundation of my journey in tech.
+                In a rapidly evolving environment, I have become accustomed to adapting, acquiring new skills, and taking responsibility for their application in unfamiliar scenarios - a principle that underpins my technological journey.
 
 
             </motion.p>
