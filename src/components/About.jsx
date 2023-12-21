@@ -55,25 +55,24 @@ const About = () => {
                 className="mt-4 ml-3 text-white text-[17px] italic max-w-6xl leading-[30px]"
             >
                 <div className="flex space-x-4">
-                    <p className="font-bold">Proud daddy of a 3 year old princess👑&nbsp;&nbsp;</p>
+                    <p className="font-bold">FrontEnd Engineer&nbsp;&nbsp;👨🏾‍💻</p>
 
-                    <p className="font-bold">Serve as a mentor through tech for Tulsa's youth&nbsp;&nbsp;🙏🏾</p>
+                    <p className="font-bold">Software Implementation&nbsp;&nbsp;💫</p>
 
-                    <p className="font-bold">Personal development is a passion of mine&nbsp;📚</p>
+                    <p className="font-bold">Project Management&nbsp;🫱🏾‍🫲🏾</p>
 
                 </div>
                 <br />
-            
+                A few years back as I began my tech journey, I remember the humblenss of the unknown. It didn't take long for me to realize how seamlessly my past experiences and skills could transition into tech.  
+                <b/>
+                Equipped with diverse technical background encompassing military service and Project/Product Management, while my software expertise lies within creating Frontend Applications with React and JavaScript.
                 <br />
-                I possess 2 years of experience developing Full Stack applications. I prefer to build using React, TypeScript, and Tailwind for the Frontend and Express, NodeJS, Firebase, and MongoDB for the middleware/backend. I particulary enjoy creating a pleasant user exerience, through animation, 3d graphics, and scrolling effects. 
+                Having extensive hands-on experience with live Software Developement and Deployments has been an invaluable cornerstone in my journey.
                 <br />
-                <br />
-                My past career consists of 9 years working on KC-135 aircraft for the United States Air Force, 8+ years working as a Purchaser/QA/Logistics Manager, and 3 years teaching marketing and sales to build an online distribution of products.
-                <br />
-                <br />
-                In a rapidly evolving environment, I have become accustomed to adapting, acquiring new skills, and taking responsibility for their application in unfamiliar scenarios - a principle that underpins my technological journey.
+                I have honed my skills in functional testing, Quality Assurance, and project management throughout my career. 
 
-
+                <br />
+                <br />
             </motion.p>
             {/* <div className="mt-20 flex flex-wrap gap-10">
                 {services.map((services, index) => (

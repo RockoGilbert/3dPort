@@ -200,7 +200,7 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://ts-ecom.netlify.app/",
+        source_code_link: "https://github.com/RockoGilbert/TS-Chat",
     },
 
     {
