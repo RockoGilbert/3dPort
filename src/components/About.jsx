@@ -54,7 +54,7 @@ const About = () => {
                 variants={fadeIn("", "", 0.1, 1)}
                 className="mt-4 ml-3 text-white text-[17px] italic max-w-6xl leading-[30px]"
             >
-                <div className="flex space-x-4">
+                <div className="flex space-x-6">
                     <p className="font-bold">FrontEnd Engineer&nbsp;&nbsp;👨🏾‍💻</p>
 
                     <p className="font-bold">Software Implementation&nbsp;&nbsp;💫</p>
@@ -63,13 +63,13 @@ const About = () => {
 
                 </div>
                 <br />
-                A few years back as I began my tech journey, I remember the humblenss of the unknown. It didn't take long for me to realize how seamlessly my past experiences and skills could transition into tech.  
+                While my software expertise lies within creating Frontend Applications with React and JavaScript, my background uniquely weaves together experience working with technology on aircraft in the military and client-facing roles in logistics management.  
                 <b/>
-                Equipped with diverse technical background encompassing military service and Project/Product Management, while my software expertise lies within creating Frontend Applications with React and JavaScript.
+                These diverse paths have honed my ability to decode complex issues and become adaptable. Navigating the intricate, unforeseen changes are skills that seamlessly transfer into the dynamic landscape of technology.                <br />
                 <br />
-                Having extensive hands-on experience with live Software Developement and Deployments has been an invaluable cornerstone in my journey.
+                Having extensive hands-on experience with live software deployments early in my tech career has been invaluable cornerstone in my journey.
                 <br />
-                I have honed my skills in functional testing, Quality Assurance, and project management throughout my career. 
+                Quality Assurance, and project management throughout my career. 
 
                 <br />
                 <br />

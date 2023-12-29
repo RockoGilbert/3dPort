@@ -108,6 +108,30 @@ const technologies = [
 
 const experiences = [
     {
+        title: "Implementation Specialist",
+        company_name: "RobbieAI",
+        icon: web,
+        iconBg: "#383E56",
+        date: "Sep 2023 - Dec 2023",
+        points: [
+            "Conducted E2E Testing for all critical functional components on the web and mobile app.",
+            "Evaluated data outputs from Machine Learning models to verify notifications were within latency thresholds, providing users with prompt and timely alerts.",
+            "Configured Camera’s, Router, peripherals, and tested the events pipeline to ensure the correct events were firing as expected, resulting in the completion of the testing phase.",
+        ],
+    },
+    {
+        title: "Frontend Engineer Intern",
+        company_name: "RobbieAI",
+        icon: web,
+        iconBg: "#383E56",
+        date: "July 2023 - Sep 2023",
+        points: [
+            "Successfully wrote comprehensive Cypress unit tests to ensure the correct data is displaying from the database.",
+            "Developed a Responsive Alert Sensitivity component for the application's dashboard.",
+            "Implemented code-splitting techniques to optimize application performance and reduce load times significantly.",
+        ],
+    },
+    {
         title: "Logistics Manager",
         company_name: "Francis Solar",
         icon: web,
@@ -119,40 +143,28 @@ const experiences = [
             "Used Asana to analyze project outcomes, identify areas of improvement and increase efficiency.",
         ],
     },
-    {
-        title: "Sales/Marketing Trainer",
-        company_name: "Online",
-        icon: web,
-        iconBg: "#E6DEDD",
-        date: "Jun 2016 - Sept 2019",
-        points: [
-            "Built and nurtured an organic network of clients and team members.",
-            "Maintained a position of accountabiltiy through strong work ethic, consistent performance, dedication, and persistence to a core team of 35-50 people.",
-            "Implemented daily, weekly, and monthly goals to team members to track numbers and monitor progress.",
-        ],
-    },
-    {
+        {
         title: "Purchaser/Logistics Manager",
         company_name: "Pendergraph Fire Alarm and Security",
         icon: web,
         iconBg: "#383E56",
-        date: "Jan 2013 - May 2016",
+        date: "Feb 2015 - Dec 2018",
         points: [
-            "Identified and resolved issues and challenges related to procurement, such as quality issues and cost overruns.",
-            "Point of contact for management to keep a running update on suppliers, and manage supplier relationships to ensure competitive pricing, quality",
-            "Analyzed data to make informed decisions about purchasing goods and services.",
+            "Identified and addressed procurement-related issues and challenges, including quality concerns and cost overruns.",
+            "Designed Gantt and flow charts to visually map and track the product lifecycle, improving effective team communication.",
+            "Revamped documentation practices for installations, configurations, and troubleshooting procedures.",
         ],
     },
     {
-        title: "Fuels Technician/Inventory Control",
+        title: "Signal Analyst/Aircraft Technicican",
         company_name: "United States Air Force",
         icon: web,
         iconBg: "#E6DEDD",
         date: "Jan 2001 - Sep 2010",
         points: [
-            "Methodically performed test to mechanical, electrical, hydraulic, and pneumatic systems for routine maintenance as needed to determine the source of problems.",
-            "Ensured open and clear communication with a 5 man team to perform work on the Aircraft.",
-            "Critical thinking to constantly adapting to live changes that may take precedence over the current work in progress "
+            "Conducted joint training sessions to enhance the understanding of signals intelligence principles among maintenance personnel.",
+            "Diagnosed and repaired communication and navigation equipment ensuring optimal functionality and compliance with safety standards.",
+            "Collaborated with aircraft maintenance teams to share my knowledge in signals intelligence (analyzing electronic signals) and electronic warfare. This teamwork contributed to the success of both air and ground operations."
         ],
     },
 ];
