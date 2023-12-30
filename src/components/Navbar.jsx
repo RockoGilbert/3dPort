@@ -43,7 +43,7 @@ const Navbar = () => {
           <img src={peace} alt='logo' className='w-6 h-6 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Rocko Gilbert &nbsp;
-            <span className='sm:block hidden'> | Portfolio</span>
+            <span className='sm:block hidden'> |  Portfolio</span>
           </p>
         </Link>
 

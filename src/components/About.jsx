@@ -68,9 +68,7 @@ const About = () => {
                 These diverse paths have honed my ability to decode complex issues and become adaptable. Navigating the intricate, unforeseen changes are skills that seamlessly transfer into the dynamic landscape of technology.                <br />
                 <br />
                 Having extensive hands-on experience with live software deployments early in my tech career has been invaluable cornerstone in my journey.
-                <br />
-                Quality Assurance, and project management throughout my career. 
-
+                <br />          
                 <br />
                 <br />
             </motion.p>
