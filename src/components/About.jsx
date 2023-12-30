@@ -63,7 +63,7 @@ const About = () => {
 
                 </div>
                 <br />
-                While my software expertise lies within creating Frontend Applications with React and JavaScript, my background uniquely weaves together experience working with technology on aircraft in the military and client-facing roles in logistics management.  
+                My background uniquely weaves together experience working with technology on aircraft in the military and client-facing roles in logistics management.  
                 <b/>
                 These diverse paths have honed my ability to decode complex issues and become adaptable. Navigating the intricate, unforeseen changes are skills that seamlessly transfer into the dynamic landscape of technology.                <br />
                 <br />
