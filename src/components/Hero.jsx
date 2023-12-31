@@ -65,7 +65,7 @@ const Hero = () => {
             Hi, I'm <span className='text-[#915EFF]'>Rocko</span>
           </h1>
           <p className={`${styles.heroSubText} mt-2 mb-1 text-white-700`} style={{ fontStyle: 'italic', fontWeight: 'lighter' }}>
-            I excel in bridging the gap of clarity, communication, and execution in performant code, software intgrations, and testing.<br className='sm:block hidden' />
+            I excel in bridging the gap of clarity, communication, and execution within performant code, software intgrations, and testing.<br className='sm:block hidden' />
             
             <br />When I'm in the lab, I build in React!
             Welcome :)

@@ -143,7 +143,7 @@ const experiences = [
             "Used Asana to analyze project outcomes, identify areas of improvement and increase efficiency.",
         ],
     },
-        {
+    {
         title: "Purchaser/Logistics Manager",
         company_name: "Pendergraph Fire Alarm and Security",
         icon: web,
@@ -171,10 +171,13 @@ const experiences = [
 
 
 const projects = [
-    {
-        name: "TS e-Commerce",
+    {name: (
+        <a href="https://ts-ecom.netlify.app/" target="_blank" rel="noopener noreferrer">
+            TypeScript E-Commerce
+        </a>
+    ),
         description:
-            "Fully functional shopping cart. Add, remove, multiple items. The cart calculates and displays running total. Built with context and hooks.",
+            "Functional shopping cart created using React, TypeScript, and Bootstrap. Utlizing context and hooks for state management.",
         tags: [
             {
                 name: "React",
@@ -190,35 +193,18 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://ts-ecom.netlify.app/",
+        source_code_link: "https://github.com/RockoGilbert/TS-E-com",
     },
 
-    {
-        name: "TS Socket-Chat-App",
-        description:
-            "Socket.io was used on the server and client to build this chat app. Users can create a room, join a room, chat with other users. Built with React, TypeScript, Node, Express, Socket.io.",
-        tags: [
-            {
-                name: "TypeScript",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "NodeJS",
-                color: "pink-text-gradient",
-            },
-            {
-                name: "RealtimeCommunication",
-                color: "green-text-gradient",
-            },
-        ],
-        image: web,
-        source_code_link: "https://github.com/RockoGilbert/TS-Chat",
-    },
 
     {
-        name: "Travel with Kenz",
+        name: (
+            <a href="https://travel-kenz.netlify.app/" target="_blank" rel="noopener noreferrer">
+                Travel with Kenz
+            </a>
+        ),
         description:
-            "A front-end web-site that was built in ReactJS and  regularCSS. The site is fully responsive.",
+            "Front-end travel website. The site is fully mobile responsive and built using CSS grid and React component libraries.",
         tags: [
             {
                 name: "NodeJS",
@@ -229,37 +215,21 @@ const projects = [
                 color: "green-text-gradient",
             },
             {
-                name: "NextJS",
+                name: "React",
                 color: "pink-text-gradient",
             },
         ],
         image: web,
-        source_code_link: "https://travel-kenz.netlify.app/",
+        source_code_link: "https://github.com/RockoGilbert/travel_kenz",
     },
-
     {
-        name: "real21estate",
+        name: (
+            <a href="https://mountainz-parallax.netlify.app/" target="_blank" rel="noopener noreferrer">
+                Mountain Parallax
+            </a>
+        ),
         description:
-            "Single page app using ReactJS.",
-        tags: [
-            {
-                name: "React",
-                color: "blue-text-gradient",
-            },
-            {
-                name: "CSS",
-                color: "green-text-gradient",
-            },
-
-        ],
-        image: web,
-        source_code_link: "https://real21estate.netlify.app/",
-    },
-
-    {
-        name: "Mountain-Parallax",
-        description:
-            "Website displaying parallax effects.",
+            "Website using JavaScript, CSS and React Parallex for displaying parallax scrolling effects.",
         tags: [
             {
                 name: "React",
@@ -267,13 +237,17 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://mountainz-parallax.netlify.app/",
+        source_code_link: "https://github.com/RockoGilbert/Scrollz/",
     },
 
     {
-        name: "Space-Parallax",
+        name: (
+            <a href="https://p-lax-space.netlify.app/" target="_blank" rel="noopener noreferrer">
+                Space Parallax
+            </a>
+        ),
         description:
-            "Website displaying parallax effects.",
+            "Website using CSS and React Parallax for scrolling effects.",
         tags: [
             {
                 name: "React",
@@ -281,55 +255,31 @@ const projects = [
             },
         ],
         image: web,
-        source_code_link: "https://p-lax-space.netlify.app/",
-    },
+        source_code_link: "https://github.com/RockoGilbert/Scrollz/",
 
+
+    },
     // {
-    //     name: "DALL-E",
+    //     name: "TS Socket-Chat-App",
     //     description:
-    //         "A MERN Stack AI image Generator",
+    //         "Socket.io was used on the server and client to build this chat app. Users can create a room, join a room, chat with other users. Built with React, TypeScript, Node, Express, Socket.io.",
     //     tags: [
+    //         {
+    //             name: "TypeScript",
+    //             color: "blue-text-gradient",
+    //         },
     //         {
     //             name: "NodeJS",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "ExpressJS/MongoDB",
-    //             color: "green-text-gradient",
-    //         },
-    //         {
-    //             name: "OpenAI API, Cloudinary",
     //             color: "pink-text-gradient",
     //         },
-    //     ],
-    //     image: web,
-    //     source_code_link: "http://127.0.0.1:5174/",
-    // },
-
-    // {
-    //     name: "SurprizeMe",
-    //     description:
-    //         "If you're like me and need help deciding what to eat, click the link, enter an ingredient, and see what pops up!",
-    //     tags: [
     //         {
-    //             name: "JavaScript",
-    //             color: "blue-text-gradient",
-    //         },
-    //         {
-    //             name: "MealDB API",
+    //             name: "RealtimeCommunication",
     //             color: "green-text-gradient",
     //         },
-    //         // {
-    //         //     name: "css",
-    //         //     color: "pink-text-gradient",
-    //         // },
     //     ],
     //     image: web,
-    //     source_code_link: "https://surprizeme.netlify.app/",
+    //     source_code_link: "https://github.com/RockoGilbert/TS-Chat",
     // },
-
-
-
 ];
 
 export { services, technologies, experiences, projects };

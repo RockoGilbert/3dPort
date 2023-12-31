@@ -63,9 +63,9 @@ const About = () => {
 
                 </div>
                 <br />
-                My background uniquely weaves together experience working with technology on aircraft in the military and client-facing roles in logistics management.  
+                My background uniquely weaves together experience working with technology on aircraft in the military and client-facing roles in logistics management.&nbsp;  
                 <b/>
-                These diverse paths have honed my ability to decode complex issues and become adaptable. Navigating the intricate, unforeseen changes are skills that seamlessly transfer into the dynamic landscape of technology.                <br />
+                These diverse paths have honed my ability to decode complex issues and become adaptable. &nbsp;Navigating the intricate, unforeseen changes are skills that seamlessly transfer into the dynamic landscape of technology.                <br />
                 <br />
                 Having extensive hands-on experience with live software deployments early in my tech career has been invaluable cornerstone in my journey.
                 <br />          
