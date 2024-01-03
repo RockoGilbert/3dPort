@@ -2280,8 +2280,8 @@ __metadata:
   linkType: hard
 
 "framer-motion@npm:^10.0.1":
-  version: 10.17.0
-  resolution: "framer-motion@npm:10.17.0"
+  version: 10.17.3
+  resolution: "framer-motion@npm:10.17.3"
   dependencies:
     "@emotion/is-prop-valid": "npm:^0.8.2"
     tslib: "npm:^2.4.0"
@@ -2296,7 +2296,7 @@ __metadata:
       optional: true
     react-dom:
       optional: true
-  checksum: 6ffa7967251945c63dbd2c448ab7e0b47acfde7c6ba6980a84ab0493453929f2b7973acae0cb9b40523a0c7976b327b1765805d1f9a442bc97153a04550ed5f1
+  checksum: e019e2cbd4b8f504c3600fb6b6ceaf4fc49268039ea4df1a7d53fdc90b345dc6268ca221ae7a0abc763774021dd4d66f2b86880010a00085b469adde1235ac5e
   languageName: node
   linkType: hard
 
@@ -2972,14 +2972,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"minipass@npm:^5.0.0, minipass@npm:^5.0.0 || ^6.0.2 || ^7.0.0":
+"minipass@npm:^5.0.0":
   version: 5.0.0
   resolution: "minipass@npm:5.0.0"
   checksum: a91d8043f691796a8ac88df039da19933ef0f633e3d7f0d35dcd5373af49131cf2399bfc355f41515dc495e3990369c3858cd319e5c2722b4753c90bf3152462
   languageName: node
   linkType: hard
 
-"minipass@npm:^7.0.2, minipass@npm:^7.0.3":
+"minipass@npm:^5.0.0 || ^6.0.2 || ^7.0.0, minipass@npm:^7.0.2, minipass@npm:^7.0.3":
   version: 7.0.4
   resolution: "minipass@npm:7.0.4"
   checksum: 6c7370a6dfd257bf18222da581ba89a5eaedca10e158781232a8b5542a90547540b4b9b7e7f490e4cda43acfbd12e086f0453728ecf8c19e0ef6921bc5958ac5
